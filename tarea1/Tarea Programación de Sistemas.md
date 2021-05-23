@@ -1,5 +1,5 @@
-## Programación de sistemas
-##                                tarea 1
+# Programación de sistemas
+## :page_facing_up: Tarea 1
 
 ## ¿Qué es Github?
 
@@ -9,11 +9,11 @@ También nos permite el acceso a una gran variedad de repositorios públicos de 
 Github, los cuales podemos marcar como destacados o seguir a sus autores y así recibir 
 notificaciones cuando suban sus trabajos.
 
-### Repositorios 
+### :open_file_folder: Repositorios 
 Es el lugar donde se encontrará almacenado todo el proyecto. En los repositorios encontrara 
 todos los archivos y el historial de todos los cambios por los que pasa el proyecto. 
 
-### Clonación
+### :two_men_holding_hands: Clonación
 GitHub nos permite bajar nuestro repositorio a nuestras computadoras, permitiéndonos trabajar
 haciendo cambios y mejoras desde cualquier herramienta con la cual modifiquemos nuestro código.
 Una vez realizados los cambios en nuestro código también nos permite guardar los cambios y 
