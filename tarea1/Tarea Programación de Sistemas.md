@@ -1,7 +1,7 @@
 ## Programación de sistemas
 ##                                tarea 1
 
-##:¿Qué es Github?
+## :¿Qué es Github?
 
 Github es una herramienta de colaboración que nos permite hacer cambios en nuestro 
 código de manera colaborativa, con las personas que tengan acceso a nuestro repositorio.  
@@ -23,5 +23,5 @@ compartirlo con nuestros compañeros.
 + **git clone + dirección del repositorio:** clonar localmente el repositorio
 + **git pull:** descargar los nuevos cambios desde el repositorio remoto
 + **git add:** agregar todos los cambios realizados al stage
-+ **git commit -m “Comentarios” **: guardar todos los cambios agregados 
++ **git commit -m ** “Comentarios”: guardar todos los cambios agregados 
 + **git push:** subir al repositorio los commit nuevos 
